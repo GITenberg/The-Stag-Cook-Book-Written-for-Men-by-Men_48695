@@ -1,10 +1,16 @@
 _repo: The-Stag-Cook-Book-Written-for-Men-by-Men_48695
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48695-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheridan, Carroll Mac
     gutenberg_agent_id: '44929'
     url: http://www.gutenberg.org/2009/agents/44929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48695#The-Stag-Cook-Book-Written-for-Men-by-Men
 gutenberg_issued: '2015-04-13'
 gutenberg_type: Text
 identifiers:
